@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65efade37e366ec3",
+        "id": "664d53e6c407312f",
         "type": "tabs",
         "children": [
           {
-            "id": "4e3ba8e088045c11",
+            "id": "d1917c9aee7fa791",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,11 +180,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e3ba8e088045c11",
+  "active": "d1917c9aee7fa791",
   "lastOpenFiles": [
+    "SQL/窗口函数.md",
+    "SQL/SQL基础.md",
     "Daily/每日记录.md",
     "AI/ChatBI.md",
     "项目/示例项目.md",
@@ -192,8 +195,6 @@
     "数据仓库/DWD.md",
     "数据仓库/DWS.md",
     "BI/指标体系.md",
-    "SQL/SQL基础.md",
-    "SQL/窗口函数.md",
     "README.md",
     "双向链接.md"
   ]
