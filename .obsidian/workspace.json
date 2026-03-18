@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "664d53e6c407312f",
+        "id": "04b8d3d0c2794172",
         "type": "tabs",
         "children": [
           {
-            "id": "d1917c9aee7fa791",
+            "id": "431f825ef422ecef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/窗口函数.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "窗口函数"
+              "title": "新标签页"
             }
           }
         ]
@@ -164,16 +160,37 @@
               "icon": "lucide-list",
               "title": "SQL基础 的大纲"
             }
+          },
+          {
+            "id": "8aad9e1e1989c255",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Yolo chat"
+            }
+          },
+          {
+            "id": "6dbbd0362302c7e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "yolo:打开聊天": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -181,15 +198,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1917c9aee7fa791",
+  "active": "8aad9e1e1989c255",
   "lastOpenFiles": [
-    "SQL/SQL基础.md",
+    "未命名.base",
     "SQL/窗口函数.md",
+    "SQL/SQL基础.md",
     "Daily/每日记录.md",
     "AI/ChatBI.md",
     "项目/示例项目.md",

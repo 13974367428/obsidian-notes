@@ -1,7 +1,43 @@
 {
   "version": 36,
-  "providers": [],
-  "chatModels": [],
+  "providers": [
+    {
+      "type": "openai-compatible",
+      "id": "MYAI",
+      "baseUrl": "http://10.102.7.111:13000/v1",
+      "apiKey": "sk-0cTFSlRUn3ZyhP5eGCqvWOLlYJvEITopK97QOHbTOLE0ZhWI",
+      "additionalSettings": {}
+    }
+  ],
+  "chatModels": [
+    {
+      "providerId": "MYAI",
+      "providerType": "openai-compatible",
+      "id": "MYAI/gpt-5.1",
+      "model": "gpt-5.1",
+      "name": "gpt-5.1",
+      "reasoningType": "openai",
+      "enable": true
+    },
+    {
+      "providerId": "MYAI",
+      "providerType": "openai-compatible",
+      "id": "MYAI/gpt-5.2",
+      "model": "gpt-5.2",
+      "name": "gpt-5.2",
+      "reasoningType": "openai",
+      "enable": true
+    },
+    {
+      "providerId": "MYAI",
+      "providerType": "openai-compatible",
+      "id": "MYAI/gpt-5.2-codex",
+      "model": "gpt-5.2-codex",
+      "name": "gpt-5.2-codex",
+      "reasoningType": "openai",
+      "enable": true
+    }
+  ],
   "embeddingModels": [],
   "chatModelId": "",
   "applyModelId": "",
@@ -123,15 +159,15 @@
       "name": "Default",
       "description": "Default editing agent for sidebar chat.",
       "systemPrompt": "",
-      "modelId": "",
       "persona": "balanced",
+      "modelId": "",
+      "customParameters": [],
       "enableTools": true,
       "includeBuiltinTools": true,
       "enabledToolNames": [],
       "toolPreferences": {},
       "enabledSkills": [],
       "skillPreferences": {},
-      "customParameters": [],
       "createdAt": 1773811787572,
       "updatedAt": 1773811787572
     }

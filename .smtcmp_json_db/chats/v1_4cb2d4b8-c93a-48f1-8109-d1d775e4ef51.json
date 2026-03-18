@@ -1,0 +1,74 @@
+{
+  "id": "4cb2d4b8-c93a-48f1-8109-d1d775e4ef51",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "你好",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "4145bf0e-e30c-4d44-83fd-19d8af416fcd",
+      "mentionables": [],
+      "selectedSkills": [],
+      "reasoningLevel": "off"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "8eb2654f-660b-48f8-bfd2-c6c547175cb6",
+      "metadata": {
+        "model": {
+          "providerId": "MYAI",
+          "providerType": "openai-compatible",
+          "id": "MYAI/gpt-5.1",
+          "model": "gpt-5.1",
+          "name": "gpt-5.1",
+          "reasoningType": "openai",
+          "enable": true,
+          "reasoning": {
+            "enabled": false
+          }
+        },
+        "generationState": "error",
+        "durationMs": 2892
+      }
+    }
+  ],
+  "createdAt": 1773812353750,
+  "updatedAt": 1773812356413,
+  "schemaVersion": 1,
+  "overrides": {
+    "chatMode": "chat"
+  },
+  "conversationModelId": "",
+  "reasoningLevel": "off"
+}

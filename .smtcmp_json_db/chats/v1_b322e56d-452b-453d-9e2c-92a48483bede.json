@@ -1,0 +1,54 @@
+{
+  "id": "b322e56d-452b-453d-9e2c-92a48483bede",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "你好",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "f0c415b8-61d9-4021-b745-6c859b682096",
+      "mentionables": [],
+      "selectedSkills": [],
+      "reasoningLevel": "off"
+    }
+  ],
+  "createdAt": 1773811997422,
+  "updatedAt": 1773811997422,
+  "schemaVersion": 1,
+  "overrides": {
+    "chatMode": "chat",
+    "autoAttachCurrentFile": false
+  },
+  "conversationModelId": "",
+  "reasoningLevel": "off"
+}

@@ -1,0 +1,178 @@
+{
+  "id": "55b1ba9b-aae2-4c05-b88b-675d9654343f",
+  "title": "新对话",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "你好",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "3fd67057-6552-45ee-9ba5-25fb90678d24",
+      "mentionables": [],
+      "selectedSkills": [],
+      "reasoningLevel": "off"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "e25d8a61-1006-4d1b-ba70-fa36edcf422e",
+      "metadata": {
+        "model": {
+          "providerId": "MYAI",
+          "providerType": "openai-compatible",
+          "id": "MYAI/gpt-5.1",
+          "model": "gpt-5.1",
+          "name": "gpt-5.1",
+          "reasoningType": "openai",
+          "enable": true,
+          "reasoning": {
+            "enabled": false
+          }
+        },
+        "generationState": "error",
+        "durationMs": 1546
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "你好",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "bfb0ef94-6227-438c-97ad-efa1e9ece99d",
+      "mentionables": [],
+      "selectedSkills": [],
+      "reasoningLevel": "off"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！🙂  \n\n我在这儿，有什么想聊的或需要帮忙的吗？",
+      "id": "cb3df4d9-bafb-43ea-9969-3334b8951014",
+      "metadata": {
+        "model": {
+          "providerId": "MYAI",
+          "providerType": "openai-compatible",
+          "id": "MYAI/gpt-5.1",
+          "model": "gpt-5.1",
+          "name": "gpt-5.1",
+          "reasoningType": "openai",
+          "enable": true,
+          "reasoning": {
+            "enabled": false
+          }
+        },
+        "generationState": "completed",
+        "usage": {
+          "prompt_tokens": 1551,
+          "completion_tokens": 29,
+          "total_tokens": 1580
+        },
+        "durationMs": 2849
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "帮我新建一个skill 主要用来学习sql的",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "c84ed162-55b0-4f29-957e-f3dfdb4d598a",
+      "mentionables": [],
+      "selectedSkills": [],
+      "reasoningLevel": "off"
+    }
+  ],
+  "createdAt": 1773812401788,
+  "updatedAt": 1773812493592,
+  "schemaVersion": 1,
+  "overrides": {
+    "chatMode": "chat"
+  },
+  "conversationModelId": "",
+  "reasoningLevel": "off"
+}
