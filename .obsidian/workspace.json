@@ -11,13 +11,28 @@
             "id": "431f825ef422ecef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL/窗口函数.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "窗口函数"
+            }
+          },
+          {
+            "id": "50537b32e4af4917",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,18 +216,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8aad9e1e1989c255",
+  "active": "50537b32e4af4917",
   "lastOpenFiles": [
+    "Daily/每日记录.md",
+    "数据仓库/DWS.md",
+    "BI/指标体系.md",
+    "AI/ChatBI.md",
     "未命名.base",
+    "skill/sql-learning.md",
+    "skill",
     "SQL/窗口函数.md",
     "SQL/SQL基础.md",
-    "Daily/每日记录.md",
-    "AI/ChatBI.md",
     "项目/示例项目.md",
     "数据仓库/ODS.md",
     "数据仓库/DWD.md",
-    "数据仓库/DWS.md",
-    "BI/指标体系.md",
     "README.md",
     "双向链接.md"
   ]
