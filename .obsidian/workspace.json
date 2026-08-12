@@ -11,10 +11,14 @@
             "id": "5695b2ca04a210c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BI/BI-知识存储.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "BI-知识存储"
             }
           }
         ]
