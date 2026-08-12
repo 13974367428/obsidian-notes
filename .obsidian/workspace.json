@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "04b8d3d0c2794172",
+        "id": "69530c5ba4f0869c",
         "type": "tabs",
         "children": [
           {
-            "id": "431f825ef422ecef",
+            "id": "5695b2ca04a210c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/窗口函数.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "窗口函数"
-            }
-          },
-          {
-            "id": "50537b32e4af4917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BI/指标体系 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "指标体系 1"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50537b32e4af4917",
+  "active": "5695b2ca04a210c1",
   "lastOpenFiles": [
+    "SQL/窗口函数.md",
+    "BI/BI-知识存储.md",
     "BI/指标体系.md",
-    "BI/指标体系 1.md",
     "数据库/主从复制.md",
     "未命名.md",
     "SQL/SQL基础.md",
@@ -239,7 +221,6 @@
     "AI/ChatBI.md",
     "skill/sql-learning.md",
     "skill",
-    "SQL/窗口函数.md",
     "项目/示例项目.md",
     "数据仓库/ODS.md",
     "数据仓库/DWD.md",
